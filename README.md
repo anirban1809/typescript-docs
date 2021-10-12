@@ -1,4 +1,4 @@
-# ts-docs
+# typescript-docs
 
 An opinionated documentation generator for typescript - generate informative and accurate documentation sites with zero setup.
 
