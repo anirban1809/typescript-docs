@@ -6,11 +6,6 @@ If you want to check out how a typical ts-docs documentation looks like, head ov
 
 ![Example](https://i.imgur.com/8FpQb1F.png)
 
-## Installation
-
-```
-npm i --save-dev @ts-docs/ts-docs @ts-docs/default-docs-structure 
-```
 
 ## Usage 
 
